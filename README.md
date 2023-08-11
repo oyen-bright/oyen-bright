@@ -5,8 +5,6 @@
 
 - 🔭 I’m currently working on [Kroon](https://www.kroonapp.com/)
 
-- 🌱 I’m currently learning **pyhthon**
-
 - 👯 I’m looking to collaborate on [kroonKiosk](https://play.google.com/store/apps/details?id=com.kroon.kiosk&hl=en&gl=US&pli=1)
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/bright-oyeniyi/](https://www.linkedin.com/in/bright-oyeniyi/)
@@ -31,8 +29,6 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/oyenbright"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="oyenbright" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=oyen-bright&show_icons=true&theme=dark&locale=en&layout=compact" alt="oyen-bright" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=oyen-bright&show_icons=true&theme=dracula&locale=en" alt="oyen-bright" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=oyen-bright&" alt="oyen-bright" /></p>
