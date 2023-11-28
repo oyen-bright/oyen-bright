@@ -3,8 +3,6 @@
 
 <p align="left"> <a href="https://twitter.com/oyenbright" target="blank"><img src="https://img.shields.io/twitter/follow/oyenbright?logo=twitter&style=for-the-badge" alt="oyenbright" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/bright-oyeniyi/](https://www.linkedin.com/in/bright-oyeniyi/)
-
 - 💬 Ask me about **Flutter, dart**
 
 - 📫 How to reach me **oyeniyibright@gmail.com**
