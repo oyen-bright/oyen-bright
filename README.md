@@ -7,7 +7,7 @@
   </a> 
 </p>
 
-- 💬 Ask me about **Go (Golang), Flutter, NestJS, Web3**  
+- 💬 Ask me about **NestJS, Flutter, Web3, Go (Golang)**  
 - 📫 Reach me at **oyeniyibright@gmail.com**  
 - 📄 Learn more about my experience on [LinkedIn](https://www.linkedin.com/in/bright-oyeniyi/)  
 
